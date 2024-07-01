@@ -10,7 +10,7 @@ Algoritmo sin_titulo
 	Escribir "Ingrese el salario base del empleado:"
 	Leer sal_base
 	
-	Escribir "Ingrese el número de horas extras trabajadas"
+	Escribir "Ingrese el nÃºmero de horas extras trabajadas"
 	Leer num_hora
 	
 	horas_extras <- num_hora*(sal_base/160)
@@ -35,8 +35,8 @@ Algoritmo sin_titulo
 	Escribir "TOTAL DESCUETOS:", total_descuentos, " USD"
 	Escribir "TOTAL SUELDO NETO A RECIBIR:", sal_final, " USD"
 	Escribir "DETALLE BENEFICIOS SOCIALES:"
-	Escribir "Décimo tercer sueldo:", d_tercero, " USD"
-	Escribir "Décimo cuarto sueldo:", d_cuarto, " USD"
+	Escribir "DÃ©cimo tercer sueldo:", d_tercero, " USD"
+	Escribir "DÃ©cimo cuarto sueldo:", d_cuarto, " USD"
 	Escribir "Vacaciones:", vac, " USD"
 	Escribir "Detalle de otros costos relacionados:"
 	Escribir "Aporte IESS empleador:", iess_empl, " USD"
